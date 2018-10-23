@@ -1,0 +1,9 @@
+{
+  "name": "measure-text",
+  "version": "1.0.0",
+  "description": "The fastest text measuring tool.",
+  "main": "./src/index.js",
+  "repository": "https://github.com/jszombies/measure-text",
+  "author": "Maksim Lysakou maksim.lysakou@gmail.com",
+  "license": "MIT"
+}
